@@ -1,0 +1,252 @@
+body
+    {
+    background-color: #669999;
+    }
+h2{color:#314c5f; font-style:bold;}
+a:link {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+p 
+{
+	font-family: Arial;
+	font-size: 16pt;
+}
+.listehis{font-size: 15pt;}
+.ital
+{
+font-family: Arial;
+	font-size: 16pt;
+	font-style:italic;
+}
+#menu1{height:200px;background-color: #314c5f;width:30%;float:left;}
+
+#menu2{height:200px;background-color: #314c5f;width:70%;float:left;}
+#menu {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#menu li {
+	//float: left;
+	width: 150px;
+	position: relative;
+}
+
+#menu a {
+	font-family:Felix Titling;
+	font-size: 23pt;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #314c5f;
+	display: block;
+	padding-top: 5px;
+	padding-right: 5px;
+	border: 0px solid #9fb2bc;
+	text-align: center;
+	line-height: 190px;
+	margin-right: 2px; 
+}
+
+#menu a:hover {
+	background-color: #fff;
+	color:#000;
+}
+
+.aciklama 
+    	  {    text-align:center;
+		 margin-left:100px;
+		margin-right:100px;
+		margin-top:250px;
+		margin-bottom:50px;
+		padding-left:100px;
+		padding-right:100px;
+		padding-bottom:50px;
+		padding-top:50px;
+		width=10px;
+		height:700px;
+		background-color: #CC9999;
+border-radius:30px;
+	  }
+.aciklama12 
+    	  {    text-align:center;
+		 margin-left:100px;
+		margin-right:100px;
+		margin-top:50px;
+		margin-bottom:50px;
+		padding-left:100px;
+		padding-right:100px;
+		padding-bottom:50px;
+		padding-top:50px;
+		width=10px;
+		height:700px;
+		background-color: #CC9999;
+border-radius:30px;
+	  }
+.aciklama1
+    	  {     margin-left:100px;
+		margin-right:100px;
+		margin-top:250px;
+		margin-bottom:50px;
+		padding-left:100px;
+		padding-right:100px;
+		padding-bottom:50px;
+		padding-top:20px;
+		width=10px;
+		height:300px;
+		background-color:#999966;
+border-radius:30px;
+	  }
+
+.aciklama2
+    	  {     margin-left:100px;
+		margin-right:100px;
+		margin-top:250px;
+		margin-bottom:50px;
+		padding-left:100px;
+		padding-right:100px;
+		padding-bottom:50px;
+		padding-top:50px;
+		width=10px;
+		height:700px;
+		background-color: #bc8c36;
+border-radius:30px;
+	  }
+.source
+    	  {     margin-left:100px;
+		margin-right:100px;
+		margin-top:250px;
+		margin-bottom:50px;
+		padding-left:100px;
+		padding-top:20px;
+		width=10px;
+		height:320px;
+		background-color:#333333	;
+border-radius:30px;
+	  }
+div.cities {
+    background-color: #996666;
+    color: #000033;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+    height:600px;
+    margin-left:70px;
+    width:40%;
+    float:left;
+border-radius:30px;
+} 
+div.cities1 {
+    font-size:18pt;
+    background-color: #99CC99;
+    color: #000033;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+    height:400px;
+    margin-left:70px;
+    width:86%;
+    float:left;
+border-radius:30px;
+} 
+div.cities2 
+{
+     font-size:25pt;
+    font-family: MS Serif;
+    background-color: #CCCCCC;
+    color: #000033;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+    height:380px;
+    margin-left:70px;
+    width:86%;
+    float:left;
+    border-radius:30px;
+    font-style:italic;
+    text-align:center; 
+} 
+h1 {text-align: center;}
+
+.liste 
+{
+	font-size:20pt;
+}
+.footer
+{ 
+
+background-color: black;
+color: white;
+padding:40px;
+text-align:center;
+ font-size:18pt;
+}.foter
+{ 
+margin-top:1690px;
+background-color: black;
+height:60px;
+width:100%;
+color:white;
+text-align:center;
+font-size:18pt;padding-top:40px;
+ 
+}
+
+#resim
+{
+float:right; margin-left:100px;margin-top:50px; 
+}
+.fter
+{ 
+margin-top:1950px;
+background-color: black;
+height:60px;
+width:100%;
+color:white;
+text-align:center;
+font-size:18pt;padding-top:40px;
+ 
+}
+.foooter
+{ 
+margin-top:50px;
+background-color: black;
+height:60px;
+width:100%;
+color:white;
+text-align:center;
+font-size:18pt;padding-top:40px;
+ 
+}
+
+
+
